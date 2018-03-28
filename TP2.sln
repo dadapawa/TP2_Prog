@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MC", "MC\MC.csproj", "{4CF78A33-5A33-4E99-AC73-5829282A94AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCTests", "MCTests\MCTests.csproj", "{BCDC5058-731B-4DEF-A290-36F55BF1FD93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CF78A33-5A33-4E99-AC73-5829282A94AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF78A33-5A33-4E99-AC73-5829282A94AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF78A33-5A33-4E99-AC73-5829282A94AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF78A33-5A33-4E99-AC73-5829282A94AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCDC5058-731B-4DEF-A290-36F55BF1FD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDC5058-731B-4DEF-A290-36F55BF1FD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDC5058-731B-4DEF-A290-36F55BF1FD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDC5058-731B-4DEF-A290-36F55BF1FD93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
